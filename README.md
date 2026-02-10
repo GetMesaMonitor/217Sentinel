@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🛡️ Mesa Monitor LLC | GetMesaMonitor
 
-<!--
-**GetMesaMonitor/GetMesaMonitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official technical home of **Mesa Monitor LLC**. We specialize in high-margin automation for the Arizona construction and real estate sectors.
 
-Here are some ideas to get you started:
+### 🚀 Flagship Product: RiskGuard™
+RiskGuard™ is a proprietary "Watchdog" SaaS that bridges the gap between contractor lists and municipal licensing data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Real-Time API Sync:** Direct integration with the City of Mesa Socrata Open Data.
+* **Automated Risk Alerts:** Immediate notification when a subcontractor's license or insurance expires.
+* **Multi-Industry ROI:** Serving General Contractors, Property Managers, and Municipal Vendors.
+
+### 🛠️ Strategic Tech Stack
+* **Frontend:** React / TypeScript / Vite / Tailwind
+* **Backend:** Supabase (PostgreSQL & Edge Functions)
+* **Data:** Socrata Open Data API
+
+---
+📫 **Contact:** [marcus@getmesamonitor.com](mailto:marcus@getmesamonitor.com)  
+🌐 **Digital HQ:** [getmesamonitor.com](https://getmesamonitor.com)  
+📍 **Location:** Mesa, Arizona, USA
