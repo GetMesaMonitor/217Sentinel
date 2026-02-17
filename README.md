@@ -1,9 +1,9 @@
-# 🛡️ Mesa Monitor LLC | GetMesaMonitor
+# Mesa Monitor LLC | 217Sentinel 🛡️
 
 Welcome to the official technical home of **Mesa Monitor LLC**. We specialize in high-margin automation for the Arizona construction and real estate sectors.
 
-### 🚀 Flagship Product: RiskGuard™
-RiskGuard™ is a proprietary "Watchdog" SaaS that bridges the gap between contractor lists and municipal licensing data.
+### 🚀 Flagship Product: 217Sentinel
+217Sentinel is a proprietary "Watchdog" SaaS that bridges the gap between contractor lists and municipal licensing data.
 
 * **Real-Time API Sync:** Direct integration with the City of Mesa Socrata Open Data.
 * **Automated Risk Alerts:** Immediate notification when a subcontractor's license or insurance expires.
@@ -15,6 +15,7 @@ RiskGuard™ is a proprietary "Watchdog" SaaS that bridges the gap between contr
 * **Data:** Socrata Open Data API
 
 ---
-📫 **Contact:** [marcus@getmesamonitor.com](mailto:marcus@getmesamonitor.com)  
-🌐 **Digital HQ:** [getmesamonitor.com](https://getmesamonitor.com)  
-📍 **Location:** Mesa, Arizona, USA
+
+* **Contact:** [marcus@getmesamonitor.com](mailto:marcus@getmesamonitor.com)
+* **Digital HQ:** [217sentinel.com](https://217sentinel.com)
+* **Location:** Mesa, Arizona, USA
